@@ -1,53 +1,21 @@
-# Projet Hackerpace Amiens
+# Hackerspace Amiens
 
->"Un hackerspace, hacklab ou media hacklab est un lieu où des gens avec un intérêt commun peuvent se rencontrer et collaborer. Les Hackerspaces peuvent être vus comme des laboratoires communautaires ouverts où des gens (les hackers) peuvent partager ressources et savoir." - Wikipedia
+Divers documents/informations pour la création d'un hackerspace à Amiens.
 
-## Motivation
+### Informations
 
-Ce genre de lieu communautaire a pour but de rassembler des gens de différents ages et milieu autour d'une passion/projet. Il permettra aussi aux personnes d'accéder à des connaissances et outils leur permettant de concrétiser leur idée. Les projets peuvent englober différents sujets comme le numérique, la biologie ou encore la mécanique.
+* Description du projet : [projet.md](./projet.md)
 
-L'importance de ce genre de lieu est crucial pour notre communauté dans un pays où le système educatif traditionnel ne donne pas les mêmes chances à tous. Ce projet n'a pas pour but de remplacer l'éducation nationale mais au contraire de lui être complémentaire en offrant une alternative à l'enseignement traditionnel. Le programme permettra à la fois aux participants d'être élèves et enseignants le tout en travaillant sur des projets qui les passionne et qui laisse leur créativité s'exprimer.
+### Contributions
 
-La mixité intergénérationnelle et des classes est une autre de nos motivation. Nous pensons que l'envie de mener à bien un projet ou d'y participer permettra de levé les barrières sociales.
+Toutes personnes souhaitant contribuer/soutenir le projet et la bienvenue.
 
-Un des derniers argument en faveur de ce programme est l'interdisciplinarité. Avoir un espace où des personnes du milieu médicale (on a quand même le plus grand CHU d'Europe) et du numérique (par ex.) puissent échanger leur connaissance et venir avec des idées créatifs pour répondre à des besoins précis. Cela est parfois difficile à organiser dans le cadre universitaire ou dans un bureau. Dans un Hackerspace nous avons un lieu où se genre de rencontre informel peut être faciliter.
+### TODO
 
-Pouvoir faire découvrir des disciplines souvent dominés par un genre en particulier sera aussi dans nos motivations. Nous avons discuté plus haut de la mixité intergénérationnelle et des classes, la parité au sein du Hackerspace sera l'une des ligne directrice lors de la création et de la gestion de l'association.
+* Trouver un local
+* Créer le hackerspace
+* Inviter des gens au Hackerspace Amiens
 
-## Non Motivation
+### Contact
 
-Un Hackerspace n'est pas un un co-working space ou un endroit pour créer sa startup mais un lieu d'échange. Certains projets pourront ammener à la création d'entreprise, dans ce cas, les autres associations amiénoise pourront prendre le relais pour les accompagner mais ce n'est aucun cas l'objectif du Hackerspace.
-
-## Organisation
-
-L'organisation sera sous la forme d'une association loi 1901. Le status légale de l'association sera déterminé au moment de la création de cette dernière.
-
-Un réglement intérieur sera aussi rédigé pour déterminer le code de conduite de l'association.
-
-## Financement
-
-Afin d'assurer la survie et la réussite de ce projet plusieurs type de financement seront possible.
-
-### Cotisation
-
-Le Hackerspace étant un laboratoire ouvert, seule les personnes souhaitant devenir membre à part entière auront pour obligation de donner une contribution. Ce status particulier permettra au dit membre d'entrer dans le conseil de l'association et ainsi de participer à la prise de décision.
-
-### Financement privée
-
-Le Hackerspace laissera la possibilité à des particuliers ou entreprises de contribuer financièrement au bon fonctionnement de l'association.
-
-### Donation
-
-L'association acceptera aussi les dons soit de type fiduciaire ou sous forme de matériel.
-
-## Partenariat
-
-Afin de mener ce projet à sa réussite, nous espérons mettre en place un partenariat privilégié avec l'éducation nationale ainsi que les différents acteurs de la scène amiénoise.
-
-Des partenariats publiques avec des compagnies peuvent être envisagé avec l'accord du conseil.
-
-## Le bureau
-
-Pour la création de l'association, un bureau provisoire sera formé des membres suivant :
-* Fred, Président
-* Lola, Trésorière
+  Lola Rigaut-Luczak (<rllola80@gmail.com>) : Consultante Bitcoin/Blockchain
