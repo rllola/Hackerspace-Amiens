@@ -8,7 +8,7 @@ Divers documents/informations pour la création d'un hackerspace à Amiens.
 
 ### Contributions
 
-Toutes personnes souhaitant contribuer/soutenir le projet et la bienvenue.
+Toutes personnes souhaitant contribuer/soutenir le projet est la bienvenue.
 
 ### TODO
 
