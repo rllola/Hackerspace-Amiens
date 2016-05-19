@@ -12,9 +12,10 @@ Toutes personnes souhaitant contribuer/soutenir le projet est la bienvenue.
 
 ### TODO
 
-* Trouver un local
-* Créer le hackerspace
-* Inviter des gens au Hackerspace Amiens
+- [x] Integration à lta slack
+- [ ] Trouver un local
+- [ ] Créer le hackerspace
+- [ ] Inviter des gens au Hackerspace Amiens
 
 ### Contact
 
